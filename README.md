@@ -1,1 +1,1 @@
-# Stock-portfolio-optimization-using-ML-techniques
+# Deep Reinforcement Learning for Asset Allocation under Stochastic Market Dynamics
